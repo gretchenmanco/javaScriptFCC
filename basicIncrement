@@ -1,0 +1,21 @@
+Basic Increment operator is <<++>> and increments some value by "1" one unit
+
+Info From FCC:
+<<
+i++;
+
+is the equivalent of
+
+i = i + 1;
+
+Note
+The entire line becomes i++;, eliminating the need for the equal sign.>>
+
+So essentially a shorter expression:  10 chars (incl spaces) versus 4 chars (no spaces necc).
+
+
+
+FCC's reference:  https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_()
+
+
+
