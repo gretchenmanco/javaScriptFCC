@@ -1,0 +1,8 @@
+creating decimal numbers
+
+FCC reference:  https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+
+Floating point numnbers AKA "floats"
+
+Not all of the real numbers can be accurately represented in <<floating point>> type of numbers, and rounding errors can occur.
+
