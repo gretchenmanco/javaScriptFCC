@@ -1,0 +1,16 @@
+Info re: remainders in JS
+
+The Remainder operator is the <<%>> per-cent symbol.
+
+The Remainder operator gives the remainder of the division of two actual numbers.  EX:  5 % 2 = 1 because "4" is obtained as a whole quotient
+but there yet remains a "1" after subtracting the four from the five.  THIS IS LIKE the MATH USED in obtaining a BINARY number (during
+conversion from decimal to binary).
+
+From FCC:
+<< 
+Usage
+In mathematics, a number can be checked [as being] even or odd by checking the remainder of the division of the [said] number by 2.
+>>
+
+IMPORTANT!!  "remainder" operator is NOT THE SAME as the "modulus" operator!!!
+
