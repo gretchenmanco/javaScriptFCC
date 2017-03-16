@@ -20,5 +20,5 @@ var array = [1,2,3];
 array[0]; // equals 1
 var data = array[1]; // equals 2
 
-NOTE:  entries of arrays are completely mutable
+NOTE:  entries of arrays are completely mutable.  I can lookup and reassign contents of an array in one step.
 
