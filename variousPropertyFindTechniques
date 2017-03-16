@@ -1,0 +1,6 @@
+* Example string:  myString = "What A Great Dog!" *
+
+* Length of a string:  myString.length*
+
+* Find first char in string:  myString[0] *
+
