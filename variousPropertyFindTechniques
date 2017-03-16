@@ -2,5 +2,13 @@
 
 * Length of a string:  myString.length*
 
-* Find first char in string:  myString[0] *
+* Find first char in string:  myString[0]  or myString[12]   // Ensure people know which character they want:  "First" is NOT "Zeroth" *
+
+* Find LAST char in string:  myString[myString.length - 1];
+* Find the Nth-to-Last char in string:  myString[myString.length - N]; <--Where N is any number < the number of chars in myString
+
+
+
+
+
 
