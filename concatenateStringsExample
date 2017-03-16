@@ -1,4 +1,4 @@
-Example of concatenation with += operators and strings
+*Example of concatenation with += operators and strings.*
 
 
 // Example
@@ -10,3 +10,18 @@ ourStr += "I come second.";
 var myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
 
+
+
+*Example of concatenation with variables.*
+
+// Example
+var anAdjective = "awesome!";
+var ourStr = "Free Code Camp is ";
+ourStr += anAdjective;
+
+// Only change code below this line
+// My solution
+
+var someAdjective = "fantastic!";
+var myStr = "Learning to code is ";
+myStr += someAdjective;
