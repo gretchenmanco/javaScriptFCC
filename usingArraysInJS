@@ -1,0 +1,24 @@
+* Arrays in JS are estab w/ open/close SQbrackets & individ items are sep'd by commas. *
+Example:  
+
+[animalType, breed, petName, ownerName, lastVisitDate, lastVisitDiag, currentVisitDiag]
+
+["Hello, "44429", "123-456-789", 78, 008]
+
+["Deep Space", 9]
+
+* Can nest arrays in JS (AKA multi-dim arrays)*
+Example w/output in comment
+var ourArray = [["the universe", 42], ["everything", 101010]];
+var myArray = [ourArray, "Pluto", ["Planetary Status ", 0]];  // [[["the universe", 42], ["everything", 101010]],"Pluto", ["Planetary Status ", 0]]
+
+
+* Find item in an array *
+
+FCC example:
+var array = [1,2,3];
+array[0]; // equals 1
+var data = array[1]; // equals 2
+
+NOTE:  entries of arrays are completely mutable
+
