@@ -37,6 +37,26 @@ Notably,
 2:  Any type of value inside an array can be "popped" (removed)--including entire nested arrays!!  IMPORTANT!!!!
 
 
+* .UNSHIFT function:  ADDS item ONLY to BEGINNING of Array *
+
+The .unshift() function is like the PUSH function EXCEPT that is for the BEGINNING of the Array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * .SHIFT function:  remove FIRST item ONLY from Array *
 
