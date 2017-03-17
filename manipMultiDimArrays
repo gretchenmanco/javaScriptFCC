@@ -1,0 +1,67 @@
+
+*  Example of accessing multidimensional arrays from FCC:
+
+When you use brackets to access your array, the first set of brackets refers to the entries in the outer-most (the first level) array,
+and each additional pair of brackets refers to the next level of entries inside.
+
+Example
+
+    var arr = [
+        [1,2,3],
+        [4,5,6],
+        [7,8,9],
+        [[10,11,12], 13, 14]
+    ];
+    arr[3]; // equals [[10,11,12], 13, 14]
+    arr[3][0]; // equals [10,11,12]
+    arr[3][0][1]; // equals 11
+
+END of quote from FCC *
+
+*  .PUSH() function:  append END item ONLY to Array *
+The .push() function is a method of appending data to an end of an array.  .push() takes parameters and places "pushes" them onto the 
+end of the array.
+
+Example: 
+
+var myArrPushEx = [1,5,9,100000];
+myArrPushEx.push(7); // myArrPushEx becomes [1,5,9,100000,7]
+
+
+
+* .POP() function:  remove END item ONLY from Array *
+
+The .pop() function is used to remove some value from the END of an array.  
+Notably, 
+1:  the "popped" (removed) value can be stored in a variable for future use.  
+2:  Any type of value inside an array can be "popped" (removed)--including entire nested arrays!!  IMPORTANT!!!!
+
+
+
+* .SHIFT function:  remove FIRST item ONLY from Array *
+
+The .shift() function removes only the FIRST value from an array.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
